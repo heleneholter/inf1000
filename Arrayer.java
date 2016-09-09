@@ -16,7 +16,7 @@ class Arrayer{
 		//System.out.println(tall[5] + ", som vi tror er ingenting");  //Faar IndexOfOutBoundsException
 
 		//
-		//Paa linje 19 faar vi IndexOfOutBoundsException hvis vi fjerner
+		//Paa linje 16 faar vi IndexOfOutBoundsException hvis vi fjerner
 		//kommenteringen, fordi vi skriver tall[5]. Heltallsarrayen som heter tall
 		//har 5 plasser, og i arrayer begynner vi aa telle fra 0 - altsaa er
 		//den siste plassen i arrayen tall[4], ikke tall[5].
